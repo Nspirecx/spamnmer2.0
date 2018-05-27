@@ -1,2 +1,0 @@
-alert("YOUR COMPUTER IS AT RISK!!, do not close this window if you do than we may have to brick your computer.  E-mail Tinyosoft Support at: support@Tinysoft.com, or you will be hacked.")
-responsiveVoice.speak("YOUR COMPUTER IS AT RISK!!, do not close this window if you do than we may have to brick your computer.  E-mail Tinyosoft Support at: support@Tinysoft.com, or you will be hacked, in five, for, three, too, one.  Hacking")
